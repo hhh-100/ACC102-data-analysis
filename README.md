@@ -38,8 +38,7 @@ This project analyzes the full-year stock performance of Apple Inc. (AAPL) in 20
 5. View statistics results and generated visualizations
 
 ## 6. Demo Link
-
-
+https://b23.tv/TX7Vv9q
 ## 7. Limitations & Next Steps
 ### Limitations
 - Only covers one single stock without market benchmark comparison
